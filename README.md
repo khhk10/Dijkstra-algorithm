@@ -2,7 +2,7 @@
 
 ![Build Status](https://img.shields.io/badge/language-python-ff69b4.svg)
 
-最短経路問題を効率的に解くための**ダイクストラ法**アルゴリズムのPythonコードです。
+Dijkstra algorithm code written by python to solve the **shortest-path-problem**.
 
 ![Dijkstra](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
 
